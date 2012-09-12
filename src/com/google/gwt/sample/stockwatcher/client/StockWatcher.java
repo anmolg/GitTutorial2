@@ -29,7 +29,11 @@ import com.google.gwt.user.client.ui.VerticalPanel;
 //import com.google.gwt.user.client.Window;
 
 public class StockWatcher implements EntryPoint {
+
 	
+	public void newMethod() {
+		System.out.println("Hello just testing GitHub");
+	}
 	private static final int REFRESH_INTERVAL = 5000; //ms
 	private VerticalPanel mainPanel = new VerticalPanel();
 	private FlexTable stocksFlexTable = new FlexTable();
