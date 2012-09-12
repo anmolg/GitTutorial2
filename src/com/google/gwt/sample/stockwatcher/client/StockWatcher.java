@@ -32,7 +32,7 @@ public class StockWatcher implements EntryPoint {
 
 	
 	public void newMethod() {
-		System.out.println("Hello just testing GitHub");
+		System.out.println("Hello just testing Gitub");
 	}
 	private static final int REFRESH_INTERVAL = 5000; //ms
 	private VerticalPanel mainPanel = new VerticalPanel();
