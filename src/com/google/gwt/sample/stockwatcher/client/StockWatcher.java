@@ -48,7 +48,7 @@ public class StockWatcher implements EntryPoint {
 	  private final StockServiceAsync stockService = GWT.create(StockService.class);
 	private Anchor signOutLink = new Anchor("Sign Out");
 	
-	
+	// 
 	/**
 	 * Entry Point Method.
 	 */
